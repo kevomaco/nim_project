@@ -81,7 +81,7 @@ Remember that you should output `Invalid Game.` **and nothing else** if the game
 
 ### Misc
 - Make sure that your formatting is correct!
-- `str.spltlines()` returns an array containing each line of the input string.
+- `str.spltlines()` returns an array containing each line of a string.
 
 - Python's f-strings are your friend here.  f-strings are a simple way to format strings that contain variables.
 ### f-string example
