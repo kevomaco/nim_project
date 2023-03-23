@@ -8,7 +8,7 @@ Nim (https://en.wikipedia.org/wiki/Nim) is a classic game for two players.  In t
 3. Each player then alternates by selecting any number of counters (up to the total amount) from one pile.
 4. The game finishes when one player is forced to take the last token from a pile. This player loses.
 ### Input and output
-In this assignment, you will be given a file that describes a game of NIM, and asked to simulate this game.  Part of this task will be determining if the file represents a valid game of NIM.
+In this assignment, you will be given a file that describes a game of Nim, and asked to simulate this game.  Part of this task will be determining if the file represents a valid game of Nim.
 Your input will be a file in the format described below, and your output will be either a simulation of the game, or a notice that the file does not represent a valid game.
 #### File Format
 Example file:
